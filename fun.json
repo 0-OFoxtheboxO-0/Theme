@@ -1,96 +1,96 @@
 {
-  "name": "fun",
-  "description": "idk man",
-  "authors": [
-    {
-      "name": "Cookietsu",
-      "id": "628165423191293962"
+    "name": "fun",
+    "description": "idk man",
+    "authors": [
+        {
+            "name": "Cookietsu",
+            "id": "628165423191293962"
+        },
+        {
+            "name": "Felix Svetloozerskiy",
+            "id": "354936587186077707"
+        }
+    ],
+    "spec": 2,
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#6e44e5"
+        ],
+        "HEADER_SECONDARY": [
+            "#6e44e5"
+        ],
+        "TEXT_NORMAL": [
+            "#D6D6D6"
+        ],
+        "TEXT_MUTED": [
+            "#10717c"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#158491"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#c5c118"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#6e44e5"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#3a3a3a"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#04040e"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#171717"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#04040e"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#04040e"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#08393F"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#04040e"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#04040e"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#04040e"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#171717"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#171717"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#464646"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#1f1a23"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#396165"
+        ],
+        "TEXT_LINK": [
+            "#396165"
+        ],
+        "KEYBOARD": [
+            "#04040e"
+        ]
     },
-    {
-      "name": "Felix Svetloozerskiy",
-      "id": "354936587186077707"
-    }
-  ],
-  "spec": 2,
-  "semanticColors": {
-    "HEADER_PRIMARY": [
-      "#6e44e5"
-    ],
-    "HEADER_SECONDARY": [
-      "#6e44e5"
-    ],
-    "TEXT_NORMAL": [
-      "#D6D6D6"
-    ],
-    "TEXT_MUTED": [
-      "#10717c"
-    ],
-    "INTERACTIVE_NORMAL": [
-      "#158491"
-    ],
-    "INTERACTIVE_HOVER": [
-      "#c5c118"
-    ],
-    "INTERACTIVE_ACTIVE": [
-      "#6e44e5"
-    ],
-    "INTERACTIVE_MUTED": [
-      "#3a3a3a"
-    ],
-    "BACKGROUND_PRIMARY": [
-      "#04040e"
-    ],
-    "BACKGROUND_SECONDARY": [
-      "#171717"
-    ],
-    "BACKGROUND_SECONDARY_ALT": [
-      "#04040e"
-    ],
-    "BACKGROUND_TERTIARY": [
-      "#04040e"
-    ],
-    "BACKGROUND_ACCENT": [
-      "#08393F"
-    ],
-    "BACKGROUND_FLOATING": [
-      "#04040e"
-    ],
-    "BACKGROUND_MOBILE_PRIMARY": [
-      "#04040e"
-    ],
-    "BACKGROUND_MOBILE_SECONDARY": [
-      "#04040e"
-    ],
-    "BACKGROUND_MESSAGE_HOVER": [
-      "#171717"
-    ],
-    "BACKGROUND_MODIFIER_HOVER": [
-      "#171717"
-    ],
-    "BACKGROUND_MODIFIER_ACTIVE": [
-      "#464646"
-    ],
-    "BACKGROUND_MODIFIER_SELECTED": [
-      "#1f1a23"
-    ],
-    "BACKGROUND_MODIFIER_ACCENT": [
-      "#396165"
-    ],
-    "TEXT_LINK": [
-      "#396165"
-    ],
-    "KEYBOARD": [
-      "#04040e"
-    ]
-  },
-  "rawColors": {
-    "PRIMARY_800": "#04040e",
-    "PRIMARY_600": "#04040e"
-  },
-  "background": {
-    "blur": 0.3,
-    "url": "https://api-cdn.rule34.xxx/images/2310/8d2cb6563a04e93716b371d1d72f86a0.jpeg",
-    "alpha": 0.7
-  },
-  "wall": "https://static1.e621.net/data/dc/49/dc494d0b41ef9d31b089ce63ce6f143c.gif"
+    "rawColors": {
+        "PRIMARY_800": "#04040e",
+        "PRIMARY_600": "#04040e"
+    },
+    "background": {
+        "blur": 0.3,
+        "url": "https://api-cdn.rule34.xxx/images/2810/e4e8a528633f1afeb4ba7a7404a8e438.jpeg",
+        "alpha": 0.7
+    },
+    "wall": "https://static1.e621.net/data/dc/49/dc494d0b41ef9d31b089ce63ce6f143c.gif"
 }
