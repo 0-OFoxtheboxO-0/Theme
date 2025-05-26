@@ -1,5 +1,5 @@
 {
-  "name": "Max Pink",
+  "name": "Max Pink green",
   "description": "Dark theme with *all* text pink, no exceptions",
   "authors": [
     {
@@ -14,8 +14,7 @@
     "TEXT_NORMAL": ["#ff69b4"],
     "TEXT_MUTED": ["#ff69b4"],
     "TEXT_LINK": ["#ff69b4"],
-    "TEXT_DANGER": ["#ff69b4"],
-    "TEXT_WARNING": ["#ff69b4"],
+    "TEXT_SECONDARY": ["#16C60C"],
     "TEXT_SUCCESS": ["#ff69b4"],
     "TEXT_BRAND": ["#ff69b4"],
     "TEXT_POSITIVE": ["#ff69b4"],
