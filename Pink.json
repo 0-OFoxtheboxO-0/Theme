@@ -1,59 +1,42 @@
 {
-  "name": "Max Pink green gang",
-  "description": "Dark theme with *all* text pink, no exceptions",
-  "authors": [
-    {
-      "name": "ChatGPT",
-      "id": "000000000000000000"
-    }
-  ],
-  "spec": 2,
+  "name": "LightPurpleSelf",
+  "description": "A clean light theme with purple user messages",
+  "version": "1",
   "semanticColors": {
-    "HEADER_PRIMARY": ["#ff69b4"],
-    "HEADER_SECONDARY": ["#ff69b4"],
-    "TEXT_NORMAL": ["#ff69b4"],
-    "TEXT_MUTED": ["#ff69b4"],
-    "TEXT_LINK": ["#ff69b4"],
-    "TEXT_SECONDARY": ["#16C60C"],
-    "TEXT_SUCCESS": ["#ff69b4"],
-    "TEXT_BRAND": ["#ff69b4"],
-    "TEXT_POSITIVE": ["#ff69b4"],
-    "TEXT_NEUTRAL": ["#ff69b4"],
-    "TEXT_ERROR": ["#ff69b4"],
-    "INTERACTIVE_NORMAL": ["#ff69b4"],
-    "INTERACTIVE_HOVER": ["#ff69b4"],
-    "INTERACTIVE_ACTIVE": ["#ff69b4"],
-    "INTERACTIVE_MUTED": ["#5a5a5a"],
-    "BACKGROUND_PRIMARY": ["#121212"],
-    "BACKGROUND_SECONDARY": ["#1e1e1e"],
-    "BACKGROUND_SECONDARY_ALT": ["#1e1e1e"],
-    "BACKGROUND_TERTIARY": ["#2a2a2a"],
-    "BACKGROUND_ACCENT": ["#2a2a2a"],
-    "BACKGROUND_FLOATING": ["#1e1e1e"],
-    "BACKGROUND_MOBILE_PRIMARY": ["#121212"],
-    "BACKGROUND_MOBILE_SECONDARY": ["#1e1e1e"],
-    "BACKGROUND_MESSAGE_HOVER": ["#1e1e1e"],
-    "BACKGROUND_MODIFIER_HOVER": ["#2a2a2a"],
-    "BACKGROUND_MODIFIER_ACTIVE": ["#3a3a3a"],
-    "BACKGROUND_MODIFIER_SELECTED": ["#333333"],
-    "BACKGROUND_MODIFIER_ACCENT": ["#ff69b420"],
-    "KEYBOARD": ["#121212"]
+    "BACKGROUND_PRIMARY": ["#FFFFFF"],
+    "BACKGROUND_SECONDARY": ["#F2F2F2"],
+    "BACKGROUND_SECONDARY_ALT": ["#E6E6E6"],
+    "BACKGROUND_TERTIARY": ["#D9D9D9"],
+    "CHAT_BACKGROUND": ["#FFFFFF"],
+    "TEXT_NORMAL": ["#1E1E1E"],
+    "TEXT_SECONDARY": ["#555555"],
+    "TEXT_MUTED": ["#999999"],
+    "HEADER_PRIMARY": ["#1E1E1E"],
+    "HEADER_SECONDARY": ["#555555"],
+    "INTERACTIVE_NORMAL": ["#4B4BFF"],
+    "INTERACTIVE_HOVER": ["#6B6BFF"],
+    "INTERACTIVE_ACTIVE": ["#0000FF"],
+    "INTERACTIVE_MUTED": ["#CCCCCC"],
+    "CHANNELS_DEFAULT": ["#808080"],
+    "BACKGROUND_FLOATING": ["#FFFFFF"]
   },
-  "scoped": [
-  {
-    "selector": ".message-2qnXI6.cozyMessage-1DWF9U[aria-label*='You'] .markup-2BOw-j",
-    "style": {
-      "color": "#FF69B4"
-    }
-  }
-  ]
   "rawColors": {
-    "PRIMARY_800": "#121212",
-    "PRIMARY_600": "#1e1e1e"
+    "PRIMARY_100": "#FFFFFF",
+    "PRIMARY_300": "#D3D3D3",
+    "PRIMARY_400": "#B0B0B0",
+    "PRIMARY_500": "#808080",
+    "BRAND_260": "#4B4BFF"
   },
-  "background": {
-    "blur": 0.0,
-    "url": "",
-    "alpha": 1.0
-  }
+  "plus": {
+    "version": 0,
+    "scoped": [
+      {
+        "selector": ".message-2qnXI6.cozyMessage-1DWF9U[aria-label*='You'] .markup-2BOw-j",
+        "style": {
+          "color": "#A020F0"
+        }
+      }
+    ]
+  },
+  "spec": 2
 }
