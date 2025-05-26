@@ -1,6 +1,6 @@
 {
-  "name": "Dark Pink",
-  "description": "Dark theme with vibrant pink highlights and text",
+  "name": "True Pink Chat",
+  "description": "Fully dark theme with pink for all text",
   "authors": [
     {
       "name": "ChatGPT",
@@ -13,6 +13,7 @@
     "HEADER_SECONDARY": ["#ff85c1"],
     "TEXT_NORMAL": ["#ff69b4"],
     "TEXT_MUTED": ["#ffb6c1"],
+    "TEXT_LINK": ["#ff69b4"],
     "INTERACTIVE_NORMAL": ["#ff69b4"],
     "INTERACTIVE_HOVER": ["#ff85c1"],
     "INTERACTIVE_ACTIVE": ["#ff4fa3"],
@@ -30,7 +31,6 @@
     "BACKGROUND_MODIFIER_ACTIVE": ["#3a3a3a"],
     "BACKGROUND_MODIFIER_SELECTED": ["#333333"],
     "BACKGROUND_MODIFIER_ACCENT": ["#ff69b420"],
-    "TEXT_LINK": ["#ff69b4"],
     "KEYBOARD": ["#121212"]
   },
   "rawColors": {
