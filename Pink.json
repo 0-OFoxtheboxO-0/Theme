@@ -1,5 +1,5 @@
 {
-    "name": "fffffuoyf",
+    "name": "fffpoybffuoyf",
     "description": "Original theme made by Princeblueblood",
     "version": "1",
     "authors": [
@@ -48,11 +48,11 @@
         "GREEN_360": "#ffffff",
         "PLUM_1": "#ffffff",
         "PLUM_3": "#ffffff",
-        "PLUM_6": "#ffffff",
-        "PLUM_10": "#ffffff",
-        "PLUM_11": "#ffffff",
-        "PLUM_15": "#ffffff",
-        "PLUM_16": "#ffffff",
+        "PLUM_6": "#000001",
+        "PLUM_10": "#000001",
+        "PLUM_11": "#000001",
+        "PLUM_15": "#000001",
+        "PLUM_16": "#000001",
         "PLUM_17": "#000002",
         "PLUM_18": "#000000",
         "PLUM_19": "#000000",
