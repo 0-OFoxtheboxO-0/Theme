@@ -3,13 +3,9 @@
   "description": "idk man",
   "authors": [
     {
-      "name": "Cookietsu",
-      "id": "628165423191293962"
+      "name": "Foxthebox",
+      "id": "700795007950651422"
     },
-    {
-      "name": "Felix Svetloozerskiy",
-      "id": "354936587186077707"
-    }
   ],
   "spec": 2,
   "semanticColors": {
@@ -62,7 +58,7 @@
       "#04040e"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
-      "#171717"
+      "#971717"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
       "#171717"
