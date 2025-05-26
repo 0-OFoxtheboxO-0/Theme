@@ -1,18 +1,18 @@
 {
-  "name": "LightPurpleSelf",
-  "description": "A clean light theme with purple user messages",
-  "version": "1",
+  "name": "LightPurpleSelfFix",
+  "description": "Light mode with purple message text for your own messages (fix version)",
+  "version": "2",
   "semanticColors": {
     "BACKGROUND_PRIMARY": ["#FFFFFF"],
     "BACKGROUND_SECONDARY": ["#F2F2F2"],
-    "BACKGROUND_SECONDARY_ALT": ["#E6E6E6"],
-    "BACKGROUND_TERTIARY": ["#D9D9D9"],
+    "BACKGROUND_SECONDARY_ALT": ["#EAEAEA"],
+    "BACKGROUND_TERTIARY": ["#DADADA"],
     "CHAT_BACKGROUND": ["#FFFFFF"],
     "TEXT_NORMAL": ["#1E1E1E"],
-    "TEXT_SECONDARY": ["#555555"],
+    "TEXT_SECONDARY": ["#5A5A5A"],
     "TEXT_MUTED": ["#999999"],
-    "HEADER_PRIMARY": ["#1E1E1E"],
-    "HEADER_SECONDARY": ["#555555"],
+    "HEADER_PRIMARY": ["#202020"],
+    "HEADER_SECONDARY": ["#606060"],
     "INTERACTIVE_NORMAL": ["#4B4BFF"],
     "INTERACTIVE_HOVER": ["#6B6BFF"],
     "INTERACTIVE_ACTIVE": ["#0000FF"],
@@ -21,17 +21,19 @@
     "BACKGROUND_FLOATING": ["#FFFFFF"]
   },
   "rawColors": {
-    "PRIMARY_100": "#FFFFFF",
-    "PRIMARY_300": "#D3D3D3",
-    "PRIMARY_400": "#B0B0B0",
-    "PRIMARY_500": "#808080",
-    "BRAND_260": "#4B4BFF"
+    "BRAND_260": "#A020F0"
   },
   "plus": {
     "version": 0,
     "scoped": [
       {
-        "selector": ".message-2qnXI6.cozyMessage-1DWF9U[aria-label*='You'] .markup-2BOw-j",
+        "selector": "[class*='message-'][class*='cozyMessage'] .headerText-3Uvj1Y:has([style*='color: rgb(114, 137, 218)']) ~ .markup-2BOw-j",
+        "style": {
+          "color": "#A020F0"
+        }
+      },
+      {
+        "selector": "[class*='message-'][class*='cozyMessage'].isLocalBot-3zGd1X .markup-2BOw-j",
         "style": {
           "color": "#A020F0"
         }
