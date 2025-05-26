@@ -1,5 +1,5 @@
 {
-    "name": "Dooos.Teaaaarrminal",
+    "name": "Deeeos.Teaaaarrminal",
     "description": "Original theme made by Princeblueblood",
     "version": "1",
     "authors": [
@@ -22,14 +22,14 @@
         ]    
     },
     "rawColors": {
-        "PRIMARY_100": "#16C60C",
-        "PRIMARY_200": "#16C60C",
-        "PRIMARY_230": "#16C60C",
-        "PRIMARY_300": "#13A10E",
-        "PRIMARY_360": "#16C60C",
-        "PRIMARY_400": "#16C60C",
-        "PRIMARY_500": "#16C60C",
-        "PRIMARY_560": "#000000",
+        "PRIMARY_100": "#000000",
+        "PRIMARY_200": "#000000",
+        "PRIMARY_230": "#000000",
+        "PRIMARY_300": "#000000",
+        "PRIMARY_360": "#000000",
+        "PRIMARY_400": "#000000",
+        "PRIMARY_500": "#000000",
+        "PRIMARY_560": "#000001",
         "PRIMARY_600": "#000000",
         "PRIMARY_630": "#000000",
         "PRIMARY_645": "#000000",
