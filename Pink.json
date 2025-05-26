@@ -1,5 +1,5 @@
 {
-    "name": "Dos.Terminal",
+    "name": "Dos.Terrrrminal",
     "description": "Original theme made by Princeblueblood",
     "version": "1",
     "authors": [
@@ -11,87 +11,6 @@
     "semanticColors": {
         "HEADER_PRIMARY": [
             "#16C60C"
-        ],
-        "BACKGROUND_MODIFIER_HOVER": [
-            "#000000"
-        ],
-        "BACKGROUND_MODIFIER_ACTIVE": [
-            "#000000"
-        ],
-        "BACKGROUND_MODIFIER_SELECTED": [
-            "#000000"
-        ],
-        "BACKGROUND_MODIFIER_ACCENT": [
-            "#4A4A4A35"
-        ],
-        "EMBED_BACKGROUND": [
-            "#000000"
-        ],
-        "BACKGROUND_MENTIONED": [
-            "#13A10E30"
-        ],
-        "BG_SURFACE_OVERLAY_TMP": [
-            "#000000"
-        ],
-        "BUTTON_OUTLINE_BRAND_BACKGROUND": [
-            "#16C60C"
-        ],
-        "BUTTON_OUTLINE_BRAND_BOARDER": [
-            "#16C60C"
-        ],
-        "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
-            "#000000"
-        ],
-        "REDESIGN_INPUT_CONTROL_SELECTED": [
-            "#16C60C"
-        ],
-        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#000000"
-        ],
-        "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
-            "#000000"
-        ],
-        "ANDROID_RIPPLE": [
-            "#16C60C"
-        ],
-        "BG_BASE_PRIMARY": [
-            "#000000"
-        ],
-        "SCROLLBAR_THIN_THUMB": [
-            "#13A10E"
-        ],
-        "SCROLLBAR_THIN_TRACK": [
-            "#000000"
-        ],
-        "SCROLLBAR_AUTO_THUMB": [
-            "#13A10E"
-        ],
-        "SCROLLBAR_AUTO_TRACK": [
-            "#13A10E"
-        ],
-        "CHANNELTEXTAREA_BACKGROUND": [
-            "#16C60C"
-        ],
-        "CHANNELS_DEFAULT": [
-            "#13A10E"
-        ],
-        "TEXT_LINK": [
-            "#13A10E"
-        ],
-        "TEXT_DANGER": [
-            "#13A10E"
-        ],
-        "KEYBOARD": [
-            "#13A10E"
-        ],
-        "CHANNEL_ICON": [
-            "#16C60C"
-        ],
-        "CHAT_BACKGROUND": [
-            "#000000"
-        ],
-        "CARD_PRIMARY_BG": [
-            "#000000"
         ],
         "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
             "#16C60C"
