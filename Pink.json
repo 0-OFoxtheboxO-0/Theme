@@ -1,20 +1,45 @@
 {
   "name": "Dark Pink",
-  "author": "ChatGPT",
-  "theme": {
-    "accent": "#ff69b4",
-    "background": "#121212",
-    "background-secondary": "#1e1e1e",
-    "background-tertiary": "#2a2a2a",
-    "text-normal": "#ff69b4",
-    "text-muted": "#ffb6c1",
-    "header-primary": "#ff69b4",
-    "header-secondary": "#ff85c1",
-    "interactive-normal": "#ff69b4",
-    "interactive-hover": "#ff85c1",
-    "interactive-active": "#ff4fa3",
-    "interactive-muted": "#5a5a5a",
-    "mention-background": "#ff69b420",
-    "mention-highlight": "#ff69b440"
+  "description": "Dark theme with vibrant pink highlights and text",
+  "authors": [
+    {
+      "name": "ChatGPT",
+      "id": "000000000000000000"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "HEADER_PRIMARY": ["#ff69b4"],
+    "HEADER_SECONDARY": ["#ff85c1"],
+    "TEXT_NORMAL": ["#ff69b4"],
+    "TEXT_MUTED": ["#ffb6c1"],
+    "INTERACTIVE_NORMAL": ["#ff69b4"],
+    "INTERACTIVE_HOVER": ["#ff85c1"],
+    "INTERACTIVE_ACTIVE": ["#ff4fa3"],
+    "INTERACTIVE_MUTED": ["#5a5a5a"],
+    "BACKGROUND_PRIMARY": ["#121212"],
+    "BACKGROUND_SECONDARY": ["#1e1e1e"],
+    "BACKGROUND_SECONDARY_ALT": ["#1e1e1e"],
+    "BACKGROUND_TERTIARY": ["#2a2a2a"],
+    "BACKGROUND_ACCENT": ["#2a2a2a"],
+    "BACKGROUND_FLOATING": ["#1e1e1e"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#121212"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#1e1e1e"],
+    "BACKGROUND_MESSAGE_HOVER": ["#1e1e1e"],
+    "BACKGROUND_MODIFIER_HOVER": ["#2a2a2a"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#3a3a3a"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#333333"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#ff69b420"],
+    "TEXT_LINK": ["#ff69b4"],
+    "KEYBOARD": ["#121212"]
+  },
+  "rawColors": {
+    "PRIMARY_800": "#121212",
+    "PRIMARY_600": "#1e1e1e"
+  },
+  "background": {
+    "blur": 0.0,
+    "url": "",
+    "alpha": 1.0
   }
 }
