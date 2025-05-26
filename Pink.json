@@ -1,0 +1,19 @@
+{
+  "name": "Dark with Pink Text",
+  "author": "ChatGPT",
+  "colors": {
+    "background": "#121212",
+    "backgroundSecondary": "#1e1e1e",
+    "backgroundTertiary": "#2a2a2a",
+    "headerPrimary": "#ff69b4",
+    "headerSecondary": "#ff69b4",
+    "textNormal": "#ff69b4",
+    "textMuted": "#ffb6c1",
+    "interactiveNormal": "#ff69b4",
+    "interactiveHovered": "#ff85c1",
+    "interactiveActive": "#ff4fa3",
+    "interactiveMuted": "#5a5a5a",
+    "mentionBackground": "#ff69b433",
+    "mentionHover": "#ff69b455"
+  }
+}
