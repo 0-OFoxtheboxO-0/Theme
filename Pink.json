@@ -1,5 +1,5 @@
 {
-  "name": "Max Pink green",
+  "name": "Max Pink green gang",
   "description": "Dark theme with *all* text pink, no exceptions",
   "authors": [
     {
@@ -39,6 +39,14 @@
     "BACKGROUND_MODIFIER_ACCENT": ["#ff69b420"],
     "KEYBOARD": ["#121212"]
   },
+  "scoped": [
+  {
+    "selector": ".message-2qnXI6.cozyMessage-1DWF9U[aria-label*='You'] .markup-2BOw-j",
+    "style": {
+      "color": "#FF69B4"
+    }
+  }
+  ]
   "rawColors": {
     "PRIMARY_800": "#121212",
     "PRIMARY_600": "#1e1e1e"
