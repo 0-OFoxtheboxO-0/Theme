@@ -1,11 +1,15 @@
 {
   "name": "fun",
-  "description": "idk man",
+  "description": "My first attempt at figuring out theme creation.",
   "authors": [
     {
-      "name": "Foxthebox",
-      "id": "700795007950651422"
+      "name": "Cookietsu",
+      "id": "628165423191293962"
     },
+    {
+      "name": "Felix Svetloozerskiy",
+      "id": "354936587186077707"
+    }
   ],
   "spec": 2,
   "semanticColors": {
@@ -16,7 +20,7 @@
       "#6e44e5"
     ],
     "TEXT_NORMAL": [
-      "#6e44e5"
+      "#D6D6D6"
     ],
     "TEXT_MUTED": [
       "#10717c"
@@ -58,7 +62,7 @@
       "#04040e"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
-      "#971717"
+      "#171717"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
       "#171717"
@@ -85,7 +89,8 @@
     "PLUM_6": "#16C60C"
   },
   "background": {
-    "url": "https://api-cdn.rule34.xxx/images/746/a4f9c926f2a162e7aa4721f3bde632ad.jpeg"
-  },
-  "wall": "https://api-cdn.rule34.xxx/images/746/a4f9c926f2a162e7aa4721f3bde632ad.jpeg"
+    "blur": 0.0,
+    "url": "https://cdn.hyrule.pics/862e4f97f.jpeg",
+    "alpha": 0.7
+  }
 }
