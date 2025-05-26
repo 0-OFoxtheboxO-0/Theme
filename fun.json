@@ -81,10 +81,11 @@
   },
   "rawColors": {
     "PRIMARY_800": "#04040e",
-    "PRIMARY_600": "#04040e"
+    "PRIMARY_600": "#04040e",
+    "PLUM_6": "#16C60C"
   },
   "background": {
-    "url": "https://api-cdn.rule34.xxx/images/1489/75f6355d49358f35ebfe0e0b0e437719.png"
+    "url": "https://api-cdn.rule34.xxx/images/746/a4f9c926f2a162e7aa4721f3bde632ad.jpeg"
   },
   "wall": "https://api-cdn.rule34.xxx/images/746/a4f9c926f2a162e7aa4721f3bde632ad.jpeg"
 }
