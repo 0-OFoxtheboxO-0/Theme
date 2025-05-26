@@ -1,5 +1,5 @@
 {
-    "name": "Dos.Teaaaarrminal",
+    "name": "Dooos.Teaaaarrminal",
     "description": "Original theme made by Princeblueblood",
     "version": "1",
     "authors": [
@@ -7,7 +7,19 @@
             "name": "Princeblueblood",
             "id": "131929165292240896"
         }
-    
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#000000"
+        ],
+        "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+            "#000000"
+        ],
+        "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ]    
     },
     "rawColors": {
         "PRIMARY_100": "#16C60C",
