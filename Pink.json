@@ -1,6 +1,6 @@
 {
-  "name": "True Pink Chat",
-  "description": "Fully dark theme with pink for all text",
+  "name": "Max Pink",
+  "description": "Dark theme with *all* text pink, no exceptions",
   "authors": [
     {
       "name": "ChatGPT",
@@ -10,13 +10,20 @@
   "spec": 2,
   "semanticColors": {
     "HEADER_PRIMARY": ["#ff69b4"],
-    "HEADER_SECONDARY": ["#ff85c1"],
+    "HEADER_SECONDARY": ["#ff69b4"],
     "TEXT_NORMAL": ["#ff69b4"],
-    "TEXT_MUTED": ["#ffb6c1"],
+    "TEXT_MUTED": ["#ff69b4"],
     "TEXT_LINK": ["#ff69b4"],
+    "TEXT_DANGER": ["#ff69b4"],
+    "TEXT_WARNING": ["#ff69b4"],
+    "TEXT_SUCCESS": ["#ff69b4"],
+    "TEXT_BRAND": ["#ff69b4"],
+    "TEXT_POSITIVE": ["#ff69b4"],
+    "TEXT_NEUTRAL": ["#ff69b4"],
+    "TEXT_ERROR": ["#ff69b4"],
     "INTERACTIVE_NORMAL": ["#ff69b4"],
-    "INTERACTIVE_HOVER": ["#ff85c1"],
-    "INTERACTIVE_ACTIVE": ["#ff4fa3"],
+    "INTERACTIVE_HOVER": ["#ff69b4"],
+    "INTERACTIVE_ACTIVE": ["#ff69b4"],
     "INTERACTIVE_MUTED": ["#5a5a5a"],
     "BACKGROUND_PRIMARY": ["#121212"],
     "BACKGROUND_SECONDARY": ["#1e1e1e"],
