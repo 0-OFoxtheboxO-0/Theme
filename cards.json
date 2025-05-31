@@ -41,13 +41,6 @@
       "value": 750,
       "image": "https://api-cdn.rule34.xxx/images/3810/d25bd5e4516927348cb275442575e9b6.jpeg",
       "source_case": "basic"
-    },
-    {
-      "name": "Rare Cub Card",
-      "rarity": "Rare",
-      "value": 1298700,
-      "image": "https://api-cdn.rule34.xxx/images/2810/2756bc7effced21814fc781cb302149e.jpeg",
-      "source_case": "cub"
     }
   ]
 }
