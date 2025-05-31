@@ -41,13 +41,6 @@
       "value": 750,
       "image": "https://api-cdn.rule34.xxx/images/3810/d25bd5e4516927348cb275442575e9b6.jpeg",
       "source_case": "basic"
-    },
-    {
-      "name": "Uncommon Basic Card",
-      "rarity": "Uncommon",
-      "value": 950,
-      "image": "https://api-cdn-mp4.rule34.xxx/images/2353/e08fd61aaf6a8f67cffba12ec3c83dba.mp4",
-      "source_case": "basic"
     }
   ]
 }
