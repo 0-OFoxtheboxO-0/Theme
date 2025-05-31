@@ -6,6 +6,13 @@
       "value": 950,
       "image": "https://api-cdn.rule34.xxx/images/3073/b8242d2d4586bf55ef01f72b55242887251a9537.jpg",
       "source_case": "basic"
+    },
+    {
+      "name": "Common Basic Card",
+      "rarity": "Common",
+      "value": 750,
+      "image": "https://api-cdn.rule34.xxx/images/2055/d200808fb29123430ee8e895ef5f3adf.jpeg",
+      "source_case": "basic"
     }
   ]
 }
